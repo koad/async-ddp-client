@@ -1,3 +1,7 @@
+0.11.2 - 2015-11-30
+
+  - Fixes call method for the case when the first param is a falsy value
+
 0.11.0 — 2015-03-23
 
   - Allow passing url to websocket connection string (#52)

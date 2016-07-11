@@ -1,3 +1,8 @@
+0.12.2 - 2016-07-11
+
+  - Fixes subscriptions problem when there are no arguments passed to the publication
+  - Fixes error parsing by cucumber-js problem
+ 
 0.11.2 - 2015-11-30
 
   - Fixes call method for the case when the first param is a falsy value

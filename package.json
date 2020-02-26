@@ -24,16 +24,16 @@
     "url": "https://github.com/xolvio/node-ddp-client"
   },
   "dependencies": {
-    "bluebird": "^2.9.24",
+    "bluebird": "3.7.2",
     "ddp-underscore-patched": "0.8.1-2",
     "ddp-ejson": "0.8.1-3",
-    "faye-websocket": "~0.9.4",
-    "request": "2.53.x"
+    "faye-websocket": "0.11.3",
+    "request": "2.88.2"
   },
   "devDependencies": {
-    "mocha": "~2.2.1",
-    "sinon": "~1.14.1",
-    "rewire": "~2.3.1"
+    "mocha": "7.1.0",
+    "sinon": "9.0.0",
+    "rewire": "4.0.1"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test"
